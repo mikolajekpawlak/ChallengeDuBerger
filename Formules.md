@@ -161,6 +161,7 @@ Ex. : « Have a nice evening » lorsqu’il est 9:00 en France et 18:00 sur la c
 - _note : voir plus bas pour la référence à H2G2_
 
 ## Formules non-sens pour montrer son agacement
+- "Cordialement",  _note : ce sont les guillemets qui expriment ici l'agacement_,
 - ASAPement vôtre,
 - Très bon souper / bonne nuit noire, _à placer selon le contexte d’une réponse dans des horaires pas possibles_,
 - Procéduralement vôtre,
